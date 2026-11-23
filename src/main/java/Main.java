@@ -38,6 +38,6 @@ public class Main extends GameApp {
         text("Click the canvas; arrows move, Space chimes.", 20, 30);
          image(petAnimation, x, 150, 80, 64);
     }
-
+//hi
     public static void main(String[] args) { launch(args); }
 }
