@@ -1,2 +1,2 @@
-Uhhh coin game
+coin game
 made by max chai (KKIH)
